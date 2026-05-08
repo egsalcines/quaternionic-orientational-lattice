@@ -1,0 +1,2 @@
+N_values,Q_values,seeds,steps,adaptive,min_steps,lr,alpha_c,kappa,lambda_pot,V,init_mode
+16 24 32,1 2 3 4 5 6 7 8 9 10,8,9000,True,3000,0.0002,1.0,0.2,5.0,1.0,mixed
